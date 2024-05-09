@@ -7,11 +7,14 @@ This repository contains minimal conda-based setup for running netsquid simulati
 - GNU `make`: [source](https://www.gnu.org/software/make/). Run `make -v` to check if it is installed.
 - `conda` (or miniconda): [source](https://docs.anaconda.com/free/distro-or-miniconda/). Run `conda -V` to check if it is installed.
 
-## What will be installed?
-
-
-
 ## Installation
+
+### What will happen?
+
+- New conda environment called `netsquid` will be created
+- `netsquid` conda environment will use python 3.10 and pip 24.0
+- The `netsquid` library and all dependencies will be installed into conda environment
+
 
 ### 1. Setting environment variables
 
