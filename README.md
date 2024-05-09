@@ -1,6 +1,6 @@
-# Netsquid base environment
+# Netsquid conda environment
 
-This repository contains minimal setup for running netsquid simulations locally.
+This repository contains minimal conda-based setup for running netsquid simulations locally.
 
 ## Requirements
 
